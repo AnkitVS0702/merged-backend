@@ -53,5 +53,14 @@
   },
   "optionalDependencies": {
     "@img/sharp-linux-x64": "0.34.5"
-  }
+  },
+  "os": [
+    "win32",
+    "linux",
+    "darwin"
+  ],
+  "cpu": [
+    "x64",
+    "arm64"
+  ]
 }
