@@ -52,7 +52,8 @@
     "@types/multer": "^2.1.0"
   },
   "optionalDependencies": {
-    "@img/sharp-linux-x64": "0.34.5"
+    "@img/sharp-linux-x64": "0.34.5",
+    "gcp-metadata": "^7.0.1"
   },
   "os": [
     "win32",
